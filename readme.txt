@@ -1,6 +1,7 @@
 === goatcounter ===
 Contributors: arp242
 Stable tag: trunk
+Tested up to: 5.4.1
 Tags: analytics
 Donate link: https://www.goatcounter.com/contribute
 License: MIT
